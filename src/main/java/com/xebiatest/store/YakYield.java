@@ -1,8 +1,5 @@
 package com.xebiatest.store;
 
-/**
- * Created by kamlendra on 18/07/15.
- */
 public class YakYield {
 
         double milk = 0;

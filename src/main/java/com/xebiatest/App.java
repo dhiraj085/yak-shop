@@ -1,15 +1,14 @@
 package com.xebiatest;
 
+import java.io.File;
+import java.util.ArrayList;
+import java.util.List;
+
 import com.xebiatest.io.XmlReader;
-import com.xebiatest.io.YakOutput;
 import com.xebiatest.model.LabYak;
 import com.xebiatest.service.YakService;
 import com.xebiatest.service.YakServiceImpl;
 import com.xebiatest.store.YakYield;
-
-import java.io.File;
-import java.util.ArrayList;
-import java.util.List;
 
 
 public class App 

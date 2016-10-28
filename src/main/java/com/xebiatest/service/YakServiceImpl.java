@@ -1,16 +1,10 @@
 package com.xebiatest.service;
 
-import com.xebiatest.io.YakOutput;
 import com.xebiatest.model.LabYak;
 import com.xebiatest.store.YakStore;
 import com.xebiatest.store.YakStoreImpl;
 import com.xebiatest.store.YakYield;
 
-import java.util.List;
-
-/**
- * Created by kamlendra on 18/07/15.
- */
 public class YakServiceImpl implements YakService {
     private YakStore yakStore;
     public  YakServiceImpl(){

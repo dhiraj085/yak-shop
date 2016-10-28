@@ -4,9 +4,6 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
 
-/**
- * Created by kamlendra on 18/07/15.
- */
 public class YakStoreImpl  implements  YakStore{
 
     //private Map dayYieldMap = new HashMap<Integer,YakYield>();

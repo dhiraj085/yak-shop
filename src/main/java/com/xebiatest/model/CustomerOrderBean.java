@@ -1,6 +1,6 @@
 package com.xebiatest.model;
 
-public class CustomerOrder {
+public class CustomerOrderBean {
 	private String customer;
 	private Order order;
 	public String getCustomer() {
